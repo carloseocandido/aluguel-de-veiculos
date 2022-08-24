@@ -1,0 +1,65 @@
+    * {
+        margin: 0;
+        border: 0;
+        padding: 0;
+    }
+
+    html {
+        font-size: 62.5%;
+    }
+
+    header {
+        background-color: #4682B4;
+        /*<!-- #6495ED CCCCFF-->*/
+        color: #FFFFFF;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        padding: 1.2pc;
+        font-size: 1.6rem;
+    }
+
+    section {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        text-align: justify;
+        box-shadow: 0.5px 0.5px 2px #000000;
+        width: 90%;
+        margin: 0 auto;
+        padding: 1.5%;
+        font-size: 1.6rem;
+    }
+
+    footer {
+        background-color: #4682B4;
+        /*<!-- #6495ED CCCCFF 4682B4-->*/
+        color: #FFFFFF;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        padding: 5%;
+        text-align: center;
+        font-size: 1.6rem;
+    }
+
+    h3 {
+        text-shadow: 1px 1px #000000;
+        font-size: 2rem;
+    }
+
+    h4 {
+        text-shadow: 1px 1px #000000;
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1.6rem;
+        text-align: justify;
+        font-family: arial;
+    }
+
+    .texto-rodape {
+        text-align: center;
+        font-size: 1.8rem;
+        font-family: arial;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
