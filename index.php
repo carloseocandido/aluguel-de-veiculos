@@ -23,7 +23,8 @@
 
         input{
             font-size: 1.7rem;
-            padding: 4px;
+            padding: 3.5px;
+            border: solid 1px;
             border-radius: 8px;
             font-weight: bold;
         }
@@ -62,8 +63,8 @@
         }
 
         img{
-            width: 85%;
-            height: 75%;
+            width: 80%;
+            height: 70%;
         }
 
         a{
