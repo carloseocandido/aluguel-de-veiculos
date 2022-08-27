@@ -5,9 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/carros.css">
     <title>Auto Car's</title> 
-    
 
 </head>
 
@@ -43,30 +42,16 @@
                 <div class="grid">
                     <div>
                         <h2>Hatch</h2>
-                        <img src="img/hatch.png" alt="Carro Hatch"><br>
-                        <a href="hatch.php">CLIQUE PARA ALUGAR</a>
+                        <img src="img/hatch.png" alt="Carro Hatch">
                     </div>
-
                     <div>
-                        <h2>Sedan</h2>
-                        <img src="img/sedan.png" alt="Carro Sedan"><br>
-                        <a href="sedan.php">CLIQUE PARA ALUGAR</a>
+                        <h2>O que é um veículo hatch?</h2>
+                        <p>O que é carro hatch? Os modelos de carro hatch, também chamados de hatchback, fazem parte dos mais populares do país. A sua principal característica é a dimensão da carroceria, que é muito mais compacta do que os veículos sedã, por exemplo, e o seu design é considerado mais simples.</p><br><br>
                     </div>
-
-                    <div>
-                        <h2>SUV</h2>
-                    <img src="img/suv.png" alt="Carro SUV"><br>
-                        <a href="suv.php">CLIQUE PARA ALUGAR</a>
-                    </div>
-
-                    <!--
-                    <div>Conteúdo4</div>
-                    <div>Conteúdo5</div>
-                    <div>Conteúdo6</div>
-                     -->
                 </div>
             </section>
-
+        <br><br>
+        <a href="index.php"><b>Voltar</b></a>
             
 
 

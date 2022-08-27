@@ -5,10 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/carros.css">
     <title>Auto Car's</title> 
-    
-
 </head>
 
 <body>
@@ -42,31 +40,17 @@
             <section class="container" id="grid-container">
                 <div class="grid">
                     <div>
-                        <h2>Hatch</h2>
-                        <img src="img/hatch.png" alt="Carro Hatch"><br>
-                        <a href="hatch.php">CLIQUE PARA ALUGAR</a>
-                    </div>
-
-                    <div>
                         <h2>Sedan</h2>
-                        <img src="img/sedan.png" alt="Carro Sedan"><br>
-                        <a href="sedan.php">CLIQUE PARA ALUGAR</a>
+                        <img src="img/sedan.png" alt="Carro Sedan">
                     </div>
-
                     <div>
-                        <h2>SUV</h2>
-                    <img src="img/suv.png" alt="Carro SUV"><br>
-                        <a href="suv.php">CLIQUE PARA ALUGAR</a>
+                        <h2>O que e um veículo sedan?</h2>
+                        <p>Um sedan se caracteriza por ter quatro portas e lugar para quatro ou mais passageiros. É conhecido como três volumes pelo fato de conter três compartimentos separados e bem distintos — compartimento do motor, compartimento dos passageiros e compartimento de bagagens.</p><br><br>
                     </div>
-
-                    <!--
-                    <div>Conteúdo4</div>
-                    <div>Conteúdo5</div>
-                    <div>Conteúdo6</div>
-                     -->
                 </div>
             </section>
-
+        <br><br>
+        <a href="index.php"><b>Voltar</b></a>
             
 
 

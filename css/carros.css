@@ -1,0 +1,94 @@
+header{
+    position: fixed;
+    width: 100%;
+}
+.form-text{
+    background-color: #4682B4;
+    color: #ffffff;
+    text-shadow: 2px 2px #000000;
+    padding: 10px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: right;
+}
+
+input{
+    font-size: 1.7rem;
+    padding: 3.5px;
+    border: solid 1px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+h2{
+    text-align: left;
+    padding: 10px;
+}
+
+p{
+    font-size: 1.6rem;
+    padding: 10px;
+}
+
+#grid-container{
+    background-color: #4682B4;
+
+}
+.grid{
+    display: grid;
+    grid-gap: 5px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.grid div{
+    font-size: 1.6rem;
+    text-align: center;
+    background-color: #ffffff;
+    padding-bottom: 25px;
+}
+
+#hatch{
+    text-align: left;
+    font-size: 1.8rem;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 45%;
+    height: 85%;
+}
+
+a{
+    font-size: 1.7rem;
+    color: #4682B4;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+fieldset{
+    border: solid;
+    padding: 1.7%;
+    font-size: 1.7rem;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 10px;
+}
+
+select{
+    border-radius: 9px;
+    border: solid 1px;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+option{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 5px;
+}
